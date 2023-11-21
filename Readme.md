@@ -15,76 +15,63 @@
 ### Back-End
 
 <div>
-<img src="https://img.shields.io/badge/Java [11.0.15]-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Spring Boot [2.7.15]-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Gradle [8.2.1]-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Python  [3.11.5]-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/fastapi [0.103.1]-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<img src="https://img.shields.io/badge/uvicorn [0.23.2]-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
+  <img src="https://img.shields.io/badge/Java [11.0.15]-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot [2.7.15]-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle [8.2.1]-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python  [3.11.5]-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi [0.103.1]-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/uvicorn [0.23.2]-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
 </div>
 
 ### Front-End
 
 <div>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/node.js [18.16.1]-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js [18.16.1]-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
 ### DataBase
 
 <div>
-
-<img src="https://img.shields.io/badge/mysql [8.0.33]-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mysql docker image [8.0.29]-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
+  <img src="https://img.shields.io/badge/mysql[8.0.29]-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ### VCS
 
 <div>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
 ### IDE
 
 <div>
-
-<img src="https://img.shields.io/badge/Visual Studio Code [1.80.1]-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ IDEA [2023.1.4]-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-
-<img src="https://img.shields.io/badge/pycharm [2023.2.1]-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Visual Studio Code [1.80.1]-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA [2023.1.4]-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/pycharm [2023.2.1]-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </div>
 
 ### CI/CD
 
 <div>
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/Docker [24.0.4]-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker [24.0.4]-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
 ### Environment
 
 <div>
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Mattermost [5.3.1]-0058CC?style=for-the-badge&logo=mattermost&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/termius [8.0.2]-000000?style=for-the-badge&logo=termius&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Mattermost [5.3.1]-0058CC?style=for-the-badge&logo=mattermost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/termius [8.0.2]-000000?style=for-the-badge&logo=termius&logoColor=white" />
 </div>
 
 # 📌서비스 소개
@@ -105,13 +92,11 @@
 - 같은 SNS 채널의 가게들과 차별성이 없는 광고로 홍보 효과 없음
     <aside>
     💡 사용자 맟춤형으로 광고 전략을 분석하고 내용을 구성하여 제작사와 매칭해주는 서비스 필요
-    
     </aside>
 
 - 광고 진행 상황과 단가 내역을 파악하기 어려움
     <aside>
     💡 광고 타겟층, 지역, 매체, 컨텐츠, 가격대를 직접 확인할 수 있는 서비스 필요
-    
     </aside>
 
 
@@ -189,10 +174,8 @@ npm start
    - 성별 / 연령대가 많이 모여있는 장소를 분석
    - 워드 클라우드 형식으로 광고 키워드 시각화
 3. 회원 관리
-
    - 추천 받은 데이터 관리
    - 고객 정보 관리
-
 4. 부가 기능
 
 - 광고 매체에 따른 제작사 매칭
@@ -260,7 +243,7 @@ npm start
 
 ### 프로젝트 개발 기간
 
-2023.08.21 ~ 2023.10.06
+`2023.08.21` ~ `2023.10.06` (7주)
 
 ### 프로젝트 산출물
 
@@ -297,19 +280,18 @@ npm start
   - `BE_feature/기능명`, `FE_release/기능명`, `FE_hotfix/기능명`
   - `DATA_feature/기능명`, `DATA_release/기능명`, `DATA_hotfix/기능명`
   - feature, release, hotfix 를 쓰기
-  - AL은 빅데이터 관련 된 겁니다.
-    ![image.png](readme-assets/image.png)
+  - AL: 빅데이터 관련
 - Git commit 메시지 컨벤션
   - <타입> 리스트
-    - 💡 **Feat: 새로운 기능 추가**
-    - 🐛 **Fix: 오류에 대한 문제 해결**
-    - ⚡ **Patch: 기능 개선**
-    - 📝 **Docs: 문서 작업**
-    - 🎨 **Design: CSS 등 사용자 UI 디자인 변경**
-    - ✏️ **Style: 간단한 코드 작업 (코드 형식, 세미콜론 추가: 비즈니스 로직 변경 없음)**
-    - 🔍 **Merge**: **develop 머지 충돌시 수정후 커밋**
-    - 🏷️ **Rename**: **파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우**
-    - 🔥 **Remove**: **파일을 삭제하는 작업만 수행한 경우**
+    - 💡 **Feat**: 새로운 기능 추가
+    - 🐛 **Fix**: 오류에 대한 문제 해결
+    - ⚡ **Patch**: 기능 개선
+    - 📝 **Docs**: 문서 작업
+    - 🎨 **Design**: CSS 등 사용자 UI 디자인 변경
+    - ✏️ **Style**: 간단한 코드 작업 (코드 형식, 세미콜론 추가: 비즈니스 로직 변경 없음)
+    - 🔍 **Merge**: develop 머지 충돌시 수정후 커밋
+    - 🏷️ **Rename**: 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우
+    - 🔥 **Remove**: 파일을 삭제하는 작업만 수행한 경우
   - git commit -m “Feat: 최대한 간단한 설명”
     - `💡 Feat: 로그인 추가` 이런식으로 쓰세요
   - 제목 첫 글자를 대문자로
@@ -317,7 +299,13 @@ npm start
 
 ### 7. Jira
 
-![Untitled](readme-assets/Untitled%203.png)
+| 2주차 | 3주차 | 4주차 |
+| ----- | ----- | ----- |
+| ![jira_번다운차트_2주차](./readme-assets/jira_번다운차트_2주차.png) | ![jira_번다운차트_3주차](./readme-assets/jira_번다운차트_3주차.png) | ![jira_번다운차트_4주차](./readme-assets/jira_번다운차트_4주차.png) |
+
+| 5주차 | 7주차 |
+| ----- | ----- |
+| ![jira_번다운차트_5주차](./readme-assets/jira_번다운차트_5주차.png) | ![jira_번다운차트_7주차](./readme-assets/jira_번다운차트_7주차.png) |
 
 - 목적: 협업, 일정, 업무 관리
 - 방법
@@ -460,5 +448,6 @@ npm start
 
 | 연주원                               | 손효민                                | 최다해                     | 이민규                          | 이정찬                         | 양수완                      |
 | ------------------------------------ | ------------------------------------- | -------------------------- | ------------------------------- | ------------------------------ | --------------------------- |
-| https://github.com/joo1yeon          | https://github.com/SonHyoMin00        | https://github.com/dahae8  | https://github.com/lmg386411    | https://github.com/jeongchanim | https://github.com/kjjs2670 |
-| 팀장, PM, Back-end, Infra, 기획 발표 | BE-Leader, Back-end, Data 분석 & 추천 | Back-end, Data 분석 & 추천 | FE-Leader, Front-end, 최종 발표 | Front-end, Data 분석           | Front-end, UCC 제작         |
+| ![joo1yeon](https://avatars.githubusercontent.com/u/50977497?v=4) | ![SonHyoMin00](https://avatars.githubusercontent.com/u/68097374?v=4) | ![dahae8](https://avatars.githubusercontent.com/u/109636793?v=4) | ![lmg386411](https://avatars.githubusercontent.com/u/122497435?v=4)| ![jeongchanim](https://avatars.githubusercontent.com/u/117694504?v=4) | ![kjjs2670](https://avatars.githubusercontent.com/u/74890445?v=4) |
+| [joo1yeon](https://github.com/joo1yeon)          | [SonHyoMin00](https://github.com/SonHyoMin00)        | [dahae8](https://github.com/dahae8)  | [lmg3864](https://github.com/lmg3864)    | [jeongchanim](https://github.com/jeongchanim) | [kjjs2670](https://github.com/kjjs2670) |
+| 팀장<br> PM<br> Back-end<br> Infra<br> 기획 발표 | BE-Leader<br> Back-end<br> Data 분석 & 추천 | Back-end<br> Data 분석 & 추천 | FE-Leader<br> Front-end<br> 최종 발표 | Front-end<br> Data 분석           | Front-end<br> UCC 제작         |
