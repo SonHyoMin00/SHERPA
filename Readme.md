@@ -1,10 +1,6 @@
 ![logo_1.png](readme-assets/logo_1.png)
 
-# 빅데이터를 기반으로 하는 고객 맞춤형 광고 매체 유형 및 키워드, 컨텐츠 추천 서비스
-
-### 배포 주소
-
-> 📌 https://j9c107.p.ssafy.io
+# 빅데이터 기반의 <br>고객 맞춤형 광고 매체 유형 및 키워드, 컨텐츠 추천 서비스
 
 ### 시연 영상
 
@@ -18,6 +14,8 @@
   <img src="https://img.shields.io/badge/Java [11.0.15]-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot [2.7.15]-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle [8.2.1]-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/Python  [3.11.5]-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi [0.103.1]-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/uvicorn [0.23.2]-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
@@ -32,7 +30,7 @@
   <img src="https://img.shields.io/badge/node.js [18.16.1]-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
-### DataBase
+### Database
 
 <div>
   <img src="https://img.shields.io/badge/mysql[8.0.29]-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
