@@ -273,7 +273,9 @@ npm start
 
 ### 7. Git Flow 브랜치 전략
 
-![git_flow_gif.gif](readme-assets/git_flow_gif.gif)
+| Git Graph | Contributor Statistics |
+| --- | --- |
+| ![git_flow_gif.gif](readme-assets/git_flow_gif.gif) | ![contributor statistics](readme-assets/Contributor_statistics.png) |
 
 - Git branch 컨벤션
   - `[BE/FE/AL]_[feature/release/hotfix]/기능명`
