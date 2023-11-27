@@ -335,7 +335,11 @@ npm start
 - `DATA` : 빅데이터 데이터 전처리 - bigdata 폴더
 - `통합` : 기획, 설계, 최종, 발표 준비 등등
 
-### 8. 프로젝트 구조
+### 8. WBS
+
+![WBS](./readme-assets/WBS.gif)
+
+### 9. 프로젝트 구조
 
 **Front-End (React)**
 
