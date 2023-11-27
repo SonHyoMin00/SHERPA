@@ -337,6 +337,8 @@ npm start
 
 ### 8. WBS
 
+[📊 C107팀의 WBS](https://docs.google.com/spreadsheets/d/1hcbCjCL8dCyVNqgF-HfabzcfaH545BLqa04mMLta3I8/edit#gid=0)
+
 ![WBS](./readme-assets/WBS.gif)
 
 ### 9. 프로젝트 구조
