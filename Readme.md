@@ -1,10 +1,12 @@
-![logo_1.png](readme-assets/logo_1.png)
+![](readme-assets/cover_image.png)
 
 # 빅데이터 기반의 <br>고객 맞춤형 광고 매체 및 컨텐츠 추천 서비스
 
+<img src="readme-assets/logo_1.png" width="300" />
+
 ### 프로젝트 개발 기간
 
-> `2023.08.21` ~ `2023.10.06` (7주)
+`2023.08.21` ~ `2023.10.06` (7주)
 
 ### 시연 영상
 
