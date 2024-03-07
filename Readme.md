@@ -14,6 +14,35 @@
 
 <br>
 
+### 목차
+
+- [기술 스택](#-기술-스택)
+- [서비스 소개](#-서비스-소개)
+    + [사용 데이터](#사용-데이터)
+- [데모](#-데모)
+- [기능 소개](#-기능-소개)
+- [시연 시나리오 & 영상](#-시연-시나리오--영상)
+  * [메인 페이지](#메인-페이지)
+  * [회원가입, 로그인](#회원가입-로그인)
+  * [매체 추천](#매체-추천)
+  * [키워드 추천](#키워드-추천)
+  * [컨텐츠 추천](#컨텐츠-추천)
+  * [마이페이지](#마이페이지)
+- [산출물](#-산출물)
+    + [1. Figma](#1-figma)
+    + [2. ERD](#2-erd)
+    + [3. API 설계서](#3-api-설계서)
+    + [4. 요구사항 정의서](#4-요구사항-정의서)
+    + [5. 시스템 아키텍처](#5-시스템-아키텍처)
+    + [6. User Flow](#6-user-flow)
+    + [7. Git Flow 브랜치 전략](#7-git-flow-브랜치-전략)
+    + [7. Jira](#7-jira)
+    + [8. WBS](#8-wbs)
+    + [9. 프로젝트 구조](#9-프로젝트-구조)
+- [팀원 소개](#-팀원-소개)
+
+<br>
+
 # 📌 기술 스택
 
 ### Back-End
@@ -82,7 +111,7 @@
 
 <br>
 
-# 📌서비스 소개
+# 📌 서비스 소개
 
 ### 개요
 
@@ -90,7 +119,6 @@
   - 히말라야 산맥에서 등반을 할 때 등산객을 안내하고 보호하는 역할을 하는 사람을 "셰르파"라고 부른다. 셰르파들은 히말라야 지역에서 주로 활동하며 고산 지대에서의 경험과 지식을 가지고 있어 등반을 안전하게 이끌어주는 중요한 역할을 한다. 히말라야 등반은 고도와 악천후와 같은 위험 요소가 존재하기 때문에 셰르파들의 전문적인 도움이 필요하다.
   - 빅데이터를 활용해 기업 홍보, 제품 광고의 목표를 이끌어주는 역할을 한다는 의미
   - 나침반 + 눈꽃송이(셰르파)
-- 프로젝트 명 : **맞춤형 광고 전략 추천** 서비스
 
 ### 기획 배경
 
@@ -102,9 +130,21 @@
 
 ### 사용 데이터
 
-- 카드사 데이터 (6천5백만 건)
-- 광고 박물관 데이터 (3만 건)
-- 광고 호감도 데이터 (4천 건)
+- SSAFY 제공 카드사 데이터 (6천5백만 건)
+- [광고 박물관 소장 광고 소재 데이터 (3만 건)](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=한국방송광고진흥공사+소장&operator=AND&detailKeyword=&publicDataPk=&recmSe=&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
+- [광고 호감도 데이터 (4천 건)](https://adstat.kobaco.co.kr/mcr/portal/dataSet/statsInfoPage.do?clsId=&orderState=regDt&pageSize=10&pageIndex=1&datasetNm=호감&datasetId=DS_MST_0000000183)
+- [행정안전부_지역별(시도/시군구/읍면동) 연령별 주민등록 인구현황](https://www.bigdata-lifelog.kr/portal/find/dataList?mode=detail&name=lgu20221017080216)
+- [AISAC 광고소재명별 광고 정보 데이터](https://www.data.go.kr/data/15105570/fileData.do)
+- [광주광역시 시내버스 노선별 승하차 인원정보](https://www.data.go.kr/data/15088456/fileData.do)
+- [광주광역시 현수막 게시대 현황 데이터](https://www.data.go.kr/tcs/dss/selectDataSetList.do?keyword=광주광역시+현수막)
+- [성별/연령별 방송 프로그램 유형별 시청여부, 이용 시간대 데이터](https://www.mediastat.or.kr/kor/tblInfo/TblInfoList.html?vw_cd=MT_ATITLE)
+- [성별/연령별 라디오 유형별 시청률, 청취 시간 데이터](https://www.mediastat.or.kr/kor/tblInfo/TblInfoList.html?vw_cd=MT_ATITLE)
+- [성별/연령대별 블로그 사용하는 매체 통계 데이터](https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_I124&conn_path=I2)
+- [성별/연령대별 SNS 사용하는 매체 통계 데이터](https://kosis.kr/statHtml/statHtml.do?orgId=405&tblId=DT_405001_I127&conn_path=I2)
+- [언론수용자 조사 통계표](https://www.kpf.or.kr/front/mediaStats/mediaStatsDetail.do)
+- [업종별 광고비 데이터](https://www.adic.or.kr/stat/main/getStats.do?className=IndustryAdOutlay)
+- 네이버 블로그 크롤링 데이터
+- 광고 제작사 데이터
 
 <br>
 
@@ -154,26 +194,20 @@ npm start
 
 <br>
 
-# 📌기능 소개
+# 📌 기능 소개
 
-## 주요 기능
+### 주요 기능
 
-⭐ 협업 필터링 알고리즘을 이용한 오프라인 매체 추천 기능
-
-⭐ 협업 필터링 알고리즘을 이용한 맞춤형 키워드 추천 기능
-
-⭐ Word2Vec을 이용한 커뮤니티 세부 주제별 추천
-
-⭐ 회원 관리 (회원 정보 관리, 품목 정보 관리, 추천 결과 보관함 관리)
-
-⭐ ChatGPT - 키워드 추천, 시나리오 추천
-
-⭐ Kakao Map - 현수막 게시장소 추천
-
-⭐ react-chartjs-2 - 차트 UX/UI
+- 협업 필터링 알고리즘을 이용한 오프라인 매체 추천 기능
+- 협업 필터링 알고리즘을 이용한 맞춤형 키워드 추천 기능
+- Word2Vec을 이용한 커뮤니티 세부 주제별 추천
+- 회원 관리 (회원 정보 관리, 품목 정보 관리, 추천 결과 보관함 관리)
+- ChatGPT - 키워드 추천, 시나리오 추천
+- Kakao Map - 현수막 게시장소 추천
+- react-chartjs-2 - 차트 UX/UI
 
 
-## 세부 기능
+### 세부 기능
 
 1. 추천 기능
    - 품목별 자주 사용된 광고 매체 추천
@@ -193,7 +227,7 @@ npm start
 
 <br>
 
-# 📌시연 시나리오 & 영상
+# 📌 시연 시나리오 & 영상
 
 ## 메인 페이지
 
@@ -251,7 +285,7 @@ npm start
 
 <br>
 
-# 📌프로젝트 산출물
+# 📌 산출물
 
 ### 1. Figma
 
@@ -459,8 +493,8 @@ npm start
 
 # 📌 팀원 소개
 
-| 연주원                               | 손효민                                | 최다해                     | 이민규                          | 이정찬                         | 양수완                      |
-| ------------------------------------ | ------------------------------------- | -------------------------- | ------------------------------- | ------------------------------ | --------------------------- |
+| 연주원 | 손효민 | 최다해 | 이민규 | 이정찬 | 양수완 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | ![joo1yeon](https://avatars.githubusercontent.com/u/50977497?v=4) | ![SonHyoMin00](https://avatars.githubusercontent.com/u/68097374?v=4) | ![dahae8](https://avatars.githubusercontent.com/u/109636793?v=4) | ![lmg386411](https://avatars.githubusercontent.com/u/122497435?v=4)| ![jeongchanim](https://avatars.githubusercontent.com/u/117694504?v=4) | ![kjjs2670](https://avatars.githubusercontent.com/u/74890445?v=4) |
 | [joo1yeon](https://github.com/joo1yeon)          | [SonHyoMin00](https://github.com/SonHyoMin00)        | [dahae8](https://github.com/dahae8)  | [lmg3864](https://github.com/lmg3864)    | [jeongchanim](https://github.com/jeongchanim) | [kjjs2670](https://github.com/kjjs2670) |
 | 팀장<br> PM<br> Back-end<br> Infra<br> 기획 발표 | BE-Leader<br> Back-end<br> Data 분석 & 추천 | Back-end<br> Data 분석 & 추천 | FE-Leader<br> Front-end<br> 최종 발표 | Front-end<br> Data 분석           | Front-end<br> UCC 제작         |
