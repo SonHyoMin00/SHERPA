@@ -31,8 +31,8 @@
 - [산출물](#-산출물)
     + [1. Figma](#1-figma)
     + [2. ERD](#2-erd)
-    + [3. API 설계서](#3-api-설계서)
-    + [4. 요구사항 정의서](#4-요구사항-정의서)
+    + [3. API 명세서](#3-api-명세서)
+    + [4. 기능 명세서](#4-기능-명세서)
     + [5. 시스템 아키텍처](#5-시스템-아키텍처)
     + [6. User Flow](#6-user-flow)
     + [7. Git Flow 브랜치 전략](#7-git-flow-브랜치-전략)
@@ -295,11 +295,15 @@ npm start
 
 ![20231006_023818.png](readme-assets/20231006_023818.png)
 
-### 3. API 설계서
+### 3. API 명세서
+
+👉 [API 명세서](https://scalloped-beech-b86.notion.site/API-d442b66cb89049ff9c6a5d4a7eb6bc13)
 
 ![최종-API명세서.gif](readme-assets/api명세서.gif)
 
-### 4. 요구사항 정의서
+### 4. 기능 명세서
+
+👉 [기능 명세서](https://scalloped-beech-b86.notion.site/45e6121f5aa04c039e9266e019800f70?v=02b32ae1fc584bf5b3cd57dd1d82d49b)
 
 ![최종-기능명세서.gif](readme-assets/기능명세서.gif)
 
